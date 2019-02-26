@@ -1,0 +1,37 @@
+ManifestFileVersion: 0
+CRC: 3984630590
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5330548577c74d4110bbc417c010cfae
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 84938a64e4882ef6c9c36f1a667676e7
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 135
+  Script: {instanceID: 0}
+Assets:
+- Assets/AB_Res/Scenes_1/Prefab/Plane.prefab
+- Assets/AB_Res/Scenes_1/Prefab/Sphere.prefab
+- Assets/AB_Res/Scenes_1/Prefab/Cube.prefab
+Dependencies:
+- C:/Users/Administrator/Desktop/AssetBundle/Assets/StreamingAssets/Windows/scenes_1/mat.ab

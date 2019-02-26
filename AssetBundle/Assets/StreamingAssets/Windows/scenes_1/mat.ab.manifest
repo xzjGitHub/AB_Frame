@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 4020440578
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 196940694fa564d6686882e99db456bb
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6f165f44e4778b6c9d85e7a145a54cb1
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/AB_Res/Scenes_1/Mat/New Material.mat
+Dependencies:
+- C:/Users/Administrator/Desktop/AssetBundle/Assets/StreamingAssets/Windows/scenes_1/textures.ab

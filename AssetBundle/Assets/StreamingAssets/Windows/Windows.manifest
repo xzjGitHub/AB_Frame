@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 729413481
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: scenes_1/textures.ab
+      Dependencies: {}
+    Info_1:
+      Name: commonscenes/commonscenes.u3d
+      Dependencies: {}
+    Info_2:
+      Name: scenes_1/mat.ab
+      Dependencies:
+        Dependency_0: scenes_1/textures.ab
+    Info_3:
+      Name: scenes_1/prefab.ab
+      Dependencies:
+        Dependency_0: scenes_1/mat.ab
+    Info_4:
+      Name: scenes_1/scenes_1.ab
+      Dependencies: {}

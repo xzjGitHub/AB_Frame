@@ -1,0 +1,14 @@
+ManifestFileVersion: 0
+CRC: 3501766297
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2f4fd46874d61242ec834be6ea271bd9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 31d6cfe0d16ae931b73c59d7e0c089c0
+HashAppended: 0
+ClassTypes: []
+Assets:
+- Assets/AB_Res/CommonScenes/test.unity
+Dependencies: []
